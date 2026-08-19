@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
