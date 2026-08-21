@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
