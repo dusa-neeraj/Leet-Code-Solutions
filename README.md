@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
