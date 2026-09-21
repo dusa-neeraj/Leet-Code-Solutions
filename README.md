@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
+| [0704-binary-search](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
