@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
 | ------- |
