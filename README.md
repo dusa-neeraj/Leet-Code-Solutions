@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
