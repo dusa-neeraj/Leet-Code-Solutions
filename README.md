@@ -137,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
