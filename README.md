@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3136-valid-word](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/3136-valid-word) |
 ## Backtracking
 |  |
 | ------- |
