@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0709-to-lower-case](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0709-to-lower-case) |
@@ -164,4 +166,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
