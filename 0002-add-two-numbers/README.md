@@ -17,7 +17,6 @@
 <strong>Input:</strong> l1 = [0], l2 = [0]
 <strong>Output:</strong> [0]
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
