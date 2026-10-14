@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0344-reverse-string](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1108-defanging-an-ip-address) |
