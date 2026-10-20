@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1052-grumpy-bookstore-owner](https://github.com/dusa-neeraj/Leet-Code-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Design
 |  |
 | ------- |
